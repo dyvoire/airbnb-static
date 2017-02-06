@@ -1,17 +1,26 @@
-parents:
-  owner_name: my parents
-  picture: http://www.vivons-maison.com/sites/default/files/sejour-appartement-de-luxe-ville.jpg
-  owner_picture: http://www.zerotoalpha.com/wp-content/uploads/2016/08/boys-with-money-600x420.jpg
-  name: parents's home
-  summary: Amazing place in 16th arrdt
-  city: Paris, France
+pikachu:
+  owner_name: pikachu
+  picture: http://vignette3.wikia.nocookie.net/pokemon/images/5/50/Ninja_Village.png/revision/latest?cb=20151203193600
+  owner_picture: http://vignette2.wikia.nocookie.net/pokemon/images/b/b1/025Pikachu_XY_anime_3.png/revision/latest?cb=20140902050035
+  name: Pokemon kingdom
+  summary: too much electricity here
+  city: Bourgpalette
   wifi: true
 
-remi:
-  owner_name: remi
-  picture: hhttp://www.bondyblog.fr/wp-content/uploads/2015/06/logement-insalubre-640x360.jpg
-  owner_picture: http://placehold.it/150x150
-  name: my home
-  summary: Disgusting place in a basement
-  city: Montreuil
+squirtle:
+  owner_name: squirtle
+  picture: http://nintendowire.com/wp-content/uploads/2016/06/Zelda-BreathOfWild-World-Water.jpg
+  owner_picture: http://vignette2.wikia.nocookie.net/pokemon/images/1/15/007Squirtle_XY_anime.png/revision/latest?cb=20140916184418
+  name: Water Kingdom
+  summary: Lots of water, take a swimsuit
+  city: Jadielle
+  wifi: false
+
+charmender:
+  owner_name: charmender
+  picture: https://images.nintendolife.com/screenshots/80857/large.jpg
+  owner_picture: http://vignette1.wikia.nocookie.net/pokemon/images/9/96/004Charmander_OS_anime.png/revision/latest?cb=20140603214902
+  name: Fire kingdom
+  summary: Lots of fire everywhere
+  city: Professor Oak
   wifi: false
