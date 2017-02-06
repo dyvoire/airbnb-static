@@ -1,0 +1,17 @@
+parents:
+  owner_name: my parents
+  picture: http://www.vivons-maison.com/sites/default/files/sejour-appartement-de-luxe-ville.jpg
+  owner_picture: http://www.zerotoalpha.com/wp-content/uploads/2016/08/boys-with-money-600x420.jpg
+  name: parents's home
+  summary: Amazing place in 16th arrdt
+  city: Paris, France
+  wifi: true
+
+remi:
+  owner_name: remi
+  picture: hhttp://www.bondyblog.fr/wp-content/uploads/2015/06/logement-insalubre-640x360.jpg
+  owner_picture: http://placehold.it/150x150
+  name: my home
+  summary: Disgusting place in a basement
+  city: Montreuil
+  wifi: false
