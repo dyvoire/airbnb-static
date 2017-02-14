@@ -4,7 +4,7 @@ pikachu:
   owner_picture: http://vignette2.wikia.nocookie.net/pokemon/images/b/b1/025Pikachu_XY_anime_3.png/revision/latest?cb=20140902050035
   name: Pokemon kingdom
   summary: too much electricity here
-  city: Bourgpalette
+  city: Bourgpalette 🍻
   wifi: true
 
 squirtle:
@@ -13,7 +13,7 @@ squirtle:
   owner_picture: http://vignette2.wikia.nocookie.net/pokemon/images/1/15/007Squirtle_XY_anime.png/revision/latest?cb=20140916184418
   name: Water Kingdom
   summary: Lots of water, take a swimsuit
-  city: Jadielle
+  city: Jadielle 🗺
   wifi: false
 
 charmender:
@@ -22,5 +22,5 @@ charmender:
   owner_picture: http://vignette1.wikia.nocookie.net/pokemon/images/9/96/004Charmander_OS_anime.png/revision/latest?cb=20140603214902
   name: Fire kingdom
   summary: Lots of fire everywhere
-  city: Professor Oak
+  city: Professor Oak 🤷
   wifi: false
